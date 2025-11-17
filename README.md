@@ -29,6 +29,8 @@ Criação da Pixel, uma persona hiper-realista desenvolvida para parecer natural
 • Vídeos realistas, com naturalidade na fala e na expressão.
 • Estudo claro sobre até onde a IA pode chegar no “Natty or Not”.
 
+[🎥 Assista ao vídeo no Instagram](https://www.instagram.com/p/DL0dnU4xHfz)
+
 ---
 
 ## 💭 **Reflexão**
