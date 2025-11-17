@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# **A Influencer Pixel – Natty or Not?**
 
-## 🚀 Introdução
+## 📒 **Descrição**
 
-> Woooow! Look at this 👀
+Criação da Pixel, uma persona hiper-realista desenvolvida para parecer natural em vídeo: mesma aparência, mesma voz, mesma estética — sempre consistente. O projeto explora até onde a IA consegue criar alguém que passa por “natty” mesmo sendo totalmente digital.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+---
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🤖 **Tecnologias Utilizadas**
 
-### Objetivos
+• **GPT** – definição da persona, prompt engineering e consistência narrativa
+• **Veo / Flow** – geração dos vídeos com coerência visual
+• **Runway** – ajustes de imagem e testes de continuidade entre os takes
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+---
 
-### Template
+## 🧐 **Processo de Criação**
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+1. Definição completa da aparência e personalidade da Pixel.
+2. Criação dos prompts em inglês (fala em português) para garantir naturalidade.
+3. Produção dos vídeos no Flow/Veo com foco em fidelidade facial.
+4. Ajustes finos no Runway e polimento final dos takes.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+---
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🚀 **Resultados**
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+• Persona convincente, com rosto, voz e estética constantes.
+• Vídeos realistas, com naturalidade na fala e na expressão.
+• Estudo claro sobre até onde a IA pode chegar no “Natty or Not”.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+---
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 **Reflexão**
 
-### Exemplos e Insigths
+Criar algo “natty” com IA não é sobre parecer perfeito, mas sobre manter coerência. Quando aparência, voz e comportamento se alinham, o resultado deixa de parecer artificial e passa a soar real.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
